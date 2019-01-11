@@ -1,5 +1,7 @@
 {
   "name": "example-Ionic4-CodePush",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
